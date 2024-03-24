@@ -1,0 +1,105 @@
+.App {
+  text-align: center;
+  background-color: rgb(201, 200, 200);
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(255, 255, 255);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Drop{
+
+  background-color: rgb(197, 191, 191);
+  min-height: 5 vh;
+  min-width: 110vh;
+}
+
+.carousel-caption custom-caption{
+  background-color: rgb(90, 160, 160);
+}
+.p1{
+  color: rgb(0, 0, 0);
+}
+.p{
+  color: rgb(240, 225, 97);
+  padding-left: 1080px;
+  padding-bottom: -10px;
+  font-size: 10px;
+}
+.j{
+  color: rgb(240, 225, 97);
+  padding-left: 1080px;
+  padding-bottom: -0px;
+  font-size: 10px;
+}
+.r{
+  color: rgb(240, 225, 97);
+  padding-left: 1080px;
+  padding-bottom: -0px;
+  font-size: 10px;
+}
+.Drop1{
+
+  background-color: rgb(252, 251, 251);
+  min-width: 110vh;
+  min-height: 500 vh;
+
+}
+.Foo{
+  min-height: 1vh;
+  background-color: rgb(102, 55, 55);
+
+
+}
+
+
+.cont{
+  background-color: rgb(255, 254, 254);
+
+}
+.head{
+  color:#020f13e0;
+  background-color: white
+}
+
+.basic-navbar-nav{
+  color: aqua;
+}
+.cl{
+  background-color: rgba(255, 255, 255, 0.959);
+}
+
+.c{
+  background-color: aqua  ;
+}
